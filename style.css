@@ -1,4 +1,9 @@
 * {
     background-color: #fdffe0;
-    color: #455946;
+    color: #536f50;
+    font-family: Georgia, "Times New Roman", Times, serif
+}
+
+.small-font {
+    font-size: 14px;
 }
