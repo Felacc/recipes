@@ -4,6 +4,17 @@
     font-family: Georgia, "Times New Roman", Times, serif
 }
 
+.homepage-gif {
+    width: 960px;
+    height: 500px;
+}
+
+.recipe-icon {
+    width: 144px;
+    height: 144px;
+}
+
+
 .small-font {
     font-size: 14px;
 }
