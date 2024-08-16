@@ -6,16 +6,17 @@
 
 .homepage-gif {
     width: 960px;
-    height: 500px;
+    height: auto;
 }
 
 .recipe-icon {
     width: 144px;
-    height: 144px;
+    height: auto;
 }
 
 
-.small-font {
+.image-source {
+    display: block;
     font-size: 14px;
 }
 
