@@ -4,23 +4,22 @@
     font-family: Georgia, "Times New Roman", Times, serif
 }
 
-.homepage-gif {
-    width: 960px;
-    height: auto;
-}
-
-.recipe-icon {
-    width: 144px;
-    height: auto;
-}
-
-
-.image-source {
+footer {
     display: block;
     font-size: 14px;
 }
 
-.homepage-button {
+.homepage-link {
     font-weight: 600;
     font-size: 18px;
+}
+
+.gif {
+    width: 960px;
+    height: auto;
+}
+
+.icon {
+    width: 144px;
+    height: auto;
 }
