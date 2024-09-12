@@ -1,12 +1,30 @@
 * {
     background-color: #fdffe0;
     color: #536f50;
-    font-family: Georgia, "Times New Roman", Times, serif
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-footer {
-    display: block;
+footer li{
+    display: inline;
     font-size: 14px;
+    margin: 12px;
+}
+
+nav {
+    display: inline-block;
+    padding: 24px;
+}
+
+nav img {
+    display: block;
+}
+
+div {
+    display: inline-block;
+}
+
+.homepage {
+    text-align: center;
 }
 
 .homepage-link {
